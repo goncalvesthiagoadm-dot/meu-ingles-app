@@ -1,0 +1,17 @@
+{
+  "name": "Meu Inglês — Thiago",
+  "short_name": "Meu Inglês",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1830",
+  "theme_color": "#101b33",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
